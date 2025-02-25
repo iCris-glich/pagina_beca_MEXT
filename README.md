@@ -1,15 +1,10 @@
 # beca_MEXT
 A new Flutter project.
 
-## Getting Started
+## Datos sobre la pagina (app)
 
-This project is a starting point for a Flutter application.
+Este es  un proyecto personal para desarrollar una pagina gubernametal sobre la beca MEXT; para más información sobre esta consulta a ''https://www.studyinjapan.go.jp/es/planning/scholarships/mext-scholarships/''.
 
-A few resources to get you started if this is your first Flutter project:
+Da información de como aplicar y que se necesita para aplicar, con la capacidad de abrir enlaces (aquí con un problema tengo no puedo correr la aplicación en emuladores o sistemas android por un problema con la vesrión de Java entonces solo funciona en Web), desarrolado con lenguaje Dart y freamwork FLutter.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Sigo siendo un desarrollador Junior pero con estos proyectos aprendo y me vuelvo mejor ¡GRACIAS!
